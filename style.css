@@ -153,6 +153,13 @@ input[type="number"] {
   gap: 1rem;
 }
 
+.botao-wrapper-final {
+  display: flex;
+  align-items: flex-end;
+  gap: 1rem;
+  justify-content: center;
+}
+
 .botao-form {
   display: flex;
   flex-direction: column;
@@ -180,6 +187,16 @@ input[type="number"] {
   border-radius: 1rem;
   background: var(--Void, #01080E);
   box-shadow: 0px 0px 20px 0px rgba(1, 8, 14, 0.50);
+
+  color: var(--Branco, #FFF);
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.botao-finalizar {
+  background: var(--Light-Blue, #1c24be);
+  box-shadow: 0px 0px 20px 0px rgba(35, 103, 187, 0.5);
 
   color: var(--Branco, #FFF);
   font-size: 1.5rem;
