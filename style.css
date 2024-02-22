@@ -195,7 +195,7 @@ input[type="number"] {
 }
 
 .botao-finalizar {
-  background: var(--Light-Blue, #1c24be);
+  background: var(--Light-Blue, #2d67dc);
   box-shadow: 0px 0px 20px 0px rgba(35, 103, 187, 0.5);
 
   color: var(--Branco, #FFF);

@@ -27,7 +27,7 @@ function adicionar() {
 }
 
 function finalizar() {
-  alert(`O toral de sua compra foi de R$${totalGeral},00.`);
+  alert(`O total de sua compra foi de R$${totalGeral},00.`);
 }
 
 function limpar() {
